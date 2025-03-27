@@ -7,6 +7,8 @@ Most outputs will look good right away, for ones that are non-optimal we do some
 
 -- sample/sample.png
 
+The sample.png is expected to be 2000x1414 pixels.
+
 ![Sample Template](./sample/sample.png "Sample Template")
 
 -- sample/data.csv
